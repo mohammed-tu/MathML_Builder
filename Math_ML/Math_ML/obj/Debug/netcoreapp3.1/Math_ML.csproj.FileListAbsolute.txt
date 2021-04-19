@@ -1,0 +1,13 @@
+C:\Users\temx3\source\repos\Math_ML\Math_ML\obj\Debug\netcoreapp3.1\Math_ML.csprojAssemblyReference.cache
+C:\Users\temx3\source\repos\Math_ML\Math_ML\obj\Debug\netcoreapp3.1\Math_ML.AssemblyInfoInputs.cache
+C:\Users\temx3\source\repos\Math_ML\Math_ML\obj\Debug\netcoreapp3.1\Math_ML.AssemblyInfo.cs
+C:\Users\temx3\source\repos\Math_ML\Math_ML\obj\Debug\netcoreapp3.1\Math_ML.csproj.CoreCompileInputs.cache
+C:\Users\temx3\source\repos\Math_ML\Math_ML\bin\Debug\netcoreapp3.1\Math_ML.exe
+C:\Users\temx3\source\repos\Math_ML\Math_ML\bin\Debug\netcoreapp3.1\Math_ML.deps.json
+C:\Users\temx3\source\repos\Math_ML\Math_ML\bin\Debug\netcoreapp3.1\Math_ML.runtimeconfig.json
+C:\Users\temx3\source\repos\Math_ML\Math_ML\bin\Debug\netcoreapp3.1\Math_ML.runtimeconfig.dev.json
+C:\Users\temx3\source\repos\Math_ML\Math_ML\bin\Debug\netcoreapp3.1\Math_ML.dll
+C:\Users\temx3\source\repos\Math_ML\Math_ML\bin\Debug\netcoreapp3.1\Math_ML.pdb
+C:\Users\temx3\source\repos\Math_ML\Math_ML\obj\Debug\netcoreapp3.1\Math_ML.dll
+C:\Users\temx3\source\repos\Math_ML\Math_ML\obj\Debug\netcoreapp3.1\Math_ML.pdb
+C:\Users\temx3\source\repos\Math_ML\Math_ML\obj\Debug\netcoreapp3.1\Math_ML.genruntimeconfig.cache
